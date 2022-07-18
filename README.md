@@ -1,2 +1,2 @@
 # VideoCaption
-A implement of the paper Sequence to Sequence - Video to Text
+An implement of the paper Sequence to Sequence - Video to Text
